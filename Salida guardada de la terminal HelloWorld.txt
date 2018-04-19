@@ -1,0 +1,26 @@
+Last login: Thu Apr 19 10:54:20 on ttys000
+
+Mazzziu-MacBook-Pro:vane Mazzziu$ ./HelloWorld
+Hello world
+Mazzziu-MacBook-Pro:vane Mazzziu$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
